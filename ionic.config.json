@@ -1,5 +1,7 @@
 {
   "name": "fullscreen",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
